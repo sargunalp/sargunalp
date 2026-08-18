@@ -22,7 +22,7 @@
 
 </div>
 
-- Part of my coding time goes into **Minecraft** — plugins, mods, and server-side projects
+- Part of my coding time goes into **Minecraft** plugins, mods, and server-side projects
 - I work with **Paper**, **Spigot**, and write **Fabric** mods in my free time
 - My main languages are **Kotlin** and **Java**
 - Always open to learning new languages and frameworks
